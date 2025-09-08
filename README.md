@@ -1,1 +1,1 @@
-Atividades práticas sobre a criação de sites realizadas nas aulas da disciplina de Programação para Internet
+Atividade sobre a criação de sites para a disciplina de Programação para Internet com o professor Bruno Aguiar.
